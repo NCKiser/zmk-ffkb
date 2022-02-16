@@ -13,7 +13,7 @@
 		multiplex-ratio = <63>;
 		//segment-remap;
 		//com-invdir;
-		com-sequential;
+		//com-sequential;
 		prechargep = <0x22>;
 	};
 };
