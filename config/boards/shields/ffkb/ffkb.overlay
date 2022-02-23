@@ -46,7 +46,7 @@
 
     sensors {
         compatible = "zmk,keymap-sensors";
-        sensors = <&encoder_1 &encoder_2 &encoder_3>;
+        sensors = <&encoder_1 &encoder_2>;
     };
 
     kscan0: kscan_0 {
